@@ -28,15 +28,15 @@ It supports image preprocessing with OpenCV to improve recognition quality.
 git clone https://github.com/awais2723/image-to-text-latex-flask.git
 cd image-to-text-latex-flask
 
-2. Create a virtual environment
+### 2. Create a virtual environment
 python -m venv venv
 source venv/bin/activate   # For Linux / Mac
 venv\Scripts\activate      # For Windows
 
-3. Install dependencies
+### 3. Install dependencies
 pip install -r requirements.txt
 
-4. Install Tesseract OCR
+### 4. Install Tesseract OCR
 
 Windows: Download from Tesseract OCR
 
